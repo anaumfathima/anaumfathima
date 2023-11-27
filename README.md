@@ -1,10 +1,4 @@
-![MasterHead](https://i0.wp.com/vusci.blog/wp-content/uploads/2020/01/banner-for-article-2.jpg?fit=1588%2C610&ssl=1s1600/2000_600px.gif)
 
-<h1 align="center">Hi 👋, I'm Anaum Fathima</h1> 
-<h3 align="center"><b><i>Greetings! I'm an undergraduate student who has a strong interest in Web development and an unquenchable love for programming.</h3</i></b> </h3>
-<img align="right"alt="Coding"width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anaumfathima&label=Profile%20views&color=0e75b6&style=flat" alt="anaumfathima" /> </p>
 
 ### Hi there 👋
 
